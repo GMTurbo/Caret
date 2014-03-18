@@ -1,5 +1,5 @@
 {
-  "name": "Caret",
+  "name": "Caret Dev",
   "description": "Professional text editing for Chrome and Chrome OS",
   "version": "1.3.29",
   "manifest_version": 2,
@@ -100,7 +100,7 @@
         "zsh"
       ],
       "title": "Caret",
-      "types": [ 
+      "types": [
         "application/javascript",
         "application/json",
         "application/x-shellscript",
